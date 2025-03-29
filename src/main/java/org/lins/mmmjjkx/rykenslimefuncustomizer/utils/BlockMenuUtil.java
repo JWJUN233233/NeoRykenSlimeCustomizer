@@ -11,7 +11,7 @@ import lombok.experimental.UtilityClass;
 import me.mrCookieSlime.Slimefun.api.inventory.BlockMenu;
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemStack;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.objects.customs.LinkedOutput;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.api.machine.LinkedOutput;
 
 @UtilityClass
 public class BlockMenuUtil {

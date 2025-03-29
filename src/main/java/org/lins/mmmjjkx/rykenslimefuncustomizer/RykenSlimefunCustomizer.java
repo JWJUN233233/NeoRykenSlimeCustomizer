@@ -11,9 +11,10 @@ import net.byteflux.libby.Library;
 import net.guizhanss.guizhanlibplugin.updater.GuizhanUpdater;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.jetbrains.annotations.NotNull;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.commands.MainCommand;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.listeners.BlockListener;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.listeners.SingleItemRecipeGuideListener;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.core.ProjectAddonManager;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.core.commands.MainCommand;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.core.listeners.BlockListener;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.core.listeners.SingleItemRecipeGuideListener;
 import org.lins.mmmjjkx.rykenslimefuncustomizer.utils.CommonUtils;
 import org.lins.mmmjjkx.rykenslimefuncustomizer.utils.ExceptionHandler;
 

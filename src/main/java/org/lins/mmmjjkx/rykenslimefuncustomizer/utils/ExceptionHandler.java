@@ -10,10 +10,10 @@ import org.bukkit.Bukkit;
 import org.bukkit.command.ConsoleCommandSender;
 import org.jetbrains.annotations.NotNull;
 import org.lins.mmmjjkx.rykenslimefuncustomizer.RykenSlimefunCustomizer;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.api.ProjectAddon;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.api.RecipeTypeMap;
+import org.lins.mmmjjkx.rykenslimefuncustomizer.api.machine.CustomMenu;
 import org.lins.mmmjjkx.rykenslimefuncustomizer.libraries.colors.CMIChatColor;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.objects.ProjectAddon;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.objects.customs.CustomMenu;
-import org.lins.mmmjjkx.rykenslimefuncustomizer.objects.global.RecipeTypeMap;
 
 public class ExceptionHandler {
     private static final @NotNull ConsoleCommandSender console = Bukkit.getConsoleSender();
